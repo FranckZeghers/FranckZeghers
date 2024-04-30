@@ -1,6 +1,4 @@
-# franck-zeghers
-
-Bienvenue sur mon profil GitHub ! 👋
+# Bienvenue sur mon profil GitHub ! 👋
 
 Salut ! Moi c'est Franck, passionné d’IT de 25 ans qui aimes découvrir toujours plus de choses sur la sécurité informatique. Voici un résumé de mes centres d’intérêt et de mes activités :
 
