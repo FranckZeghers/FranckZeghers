@@ -1,14 +1,6 @@
 # Bienvenue sur mon profil GitHub 👋
 
 Salut ! Moi c'est Franck, un étudiant belge de 25 ans passionné d’IT, qui aime découvrir toujours plus de choses sur la sécurité informatique. Voici un résumé de mes centres d’intérêt et de mes activités :
-
-## À propos de moi :
-
-- 🌐 Actuellement en formation de Cyber-Sécurité.
-- 👀 Intéressé par l’OSINT (Open Source Intelligence).
-- 💼 Ancien participant au programme Cyber Sprint chez BeCode.
-- 💻 En train d’apprendre le développement en Python et le Backend (PHP).
-
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -39,7 +31,12 @@ Salut ! Moi c'est Franck, un étudiant belge de 25 ans passionné d’IT, qui ai
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
+## À propos de moi :
 
+- 🌐 Actuellement en formation de Cyber-Sécurité.
+- 👀 Intéressé par l’OSINT (Open Source Intelligence).
+- 💼 Ancien participant au programme Cyber Sprint chez BeCode.
+- 💻 En train d’apprendre le développement en Python et le Backend (PHP).
 
 ## Objectifs :
 
