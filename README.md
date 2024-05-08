@@ -10,7 +10,7 @@ Salut ! Moi c'est Franck, un passionné d’IT de 25 ans qui aimes découvrir to
 
 💼 Ancien participant au programme Cyber Sprint chez BeCode.
 
-💻 En train d’apprendre le développement en PHP et Python.
+💻 En train d’apprendre le développement en Python et le Backend (PHP).
 
 
 Objectifs :
@@ -19,7 +19,7 @@ Objectifs :
 
 🔓 Développer mes compétences en tant que SOC-analyste.
 
-🖥️ Maîtriser le développement en PHP et Python.
+🖥️ M'améliorer en développement en PHP et Python.
 
 🌐 Explorer davantage l’OSINT.
 
