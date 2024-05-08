@@ -1,4 +1,4 @@
-# Bienvenue sur mon profil GitHub 👋
+<h1 align="center"><b>Hi , Bienvenue sur mon profil github </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Salut ! Moi c'est Franck, un étudiant belge de 25 ans passionné d’IT, qui aime découvrir toujours plus de choses sur la sécurité informatique. Voici un résumé de mes centres d’intérêt et de mes activités :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
