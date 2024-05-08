@@ -5,7 +5,6 @@
 Salut ! Moi c'est Franck, un étudiant belge de 25 ans passionné d’IT, qui aime découvrir toujours plus de choses sur la sécurité informatique. Voici un résumé de mes centres d’intérêt et de mes activités :
 
 ## À propos de moi :
-
 ---
 
 - 🌐 Actuellement en formation de Cyber-Sécurité.
@@ -14,7 +13,6 @@ Salut ! Moi c'est Franck, un étudiant belge de 25 ans passionné d’IT, qui ai
 - 💻 En train d’apprendre le développement en Python et le Backend (PHP).
 
 ## Objectifs :
-
 ---
 
 - 📚 Approfondir mes connaissances en Cyber-Sécurité.
@@ -23,7 +21,6 @@ Salut ! Moi c'est Franck, un étudiant belge de 25 ans passionné d’IT, qui ai
 - 🌐 Explorer davantage l’OSINT.
 
 ## **Mes passions :**
-
 ---
 
 - 🎮 Capture de drapeau (CTF): Je participe régulièrement à des compétitions CTF pour améliorer mes compétences en cybersécurité.
@@ -31,7 +28,6 @@ Salut ! Moi c'est Franck, un étudiant belge de 25 ans passionné d’IT, qui ai
 - 🎵 Musique: Quand je ne suis pas en train de coder, vous me trouverez probablement en train d'écouter de la musique.
 
 ## **Contact :**
-
 ---
 
 N'hésitez pas à me contacter pour discuter de la sécurité informatique, des projets collaboratifs ou simplement pour échanger des idées!
