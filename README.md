@@ -1,28 +1,39 @@
-# Bienvenue sur mon profil GitHub ! 👋
+# Bienvenue sur mon profil GitHub 👋
 
-Salut ! Moi c'est Franck, un passionné d’IT de 25 ans qui aimes découvrir toujours plus de choses sur la sécurité informatique. Voici un résumé de mes centres d’intérêt et de mes activités :
+---
 
-À propos de moi :
+Salut ! Moi c'est Franck, un étudiant belge de 25 ans passionné d’IT, qui aime découvrir toujours plus de choses sur la sécurité informatique. Voici un résumé de mes centres d’intérêt et de mes activités :
 
-🌐 Actuellement en formation de Cyber-Sécurité.
+## À propos de moi :
 
-👀 Intéressé par l’OSINT (Open Source Intelligence).
+---
 
-💼 Ancien participant au programme Cyber Sprint chez BeCode.
+- 🌐 Actuellement en formation de Cyber-Sécurité.
+- 👀 Intéressé par l’OSINT (Open Source Intelligence).
+- 💼 Ancien participant au programme Cyber Sprint chez BeCode.
+- 💻 En train d’apprendre le développement en Python et le Backend (PHP).
 
-💻 En train d’apprendre le développement en Python et le Backend (PHP).
+## Objectifs :
 
+---
 
-Objectifs :
+- 📚 Approfondir mes connaissances en Cyber-Sécurité.
+- 🔓 Développer mes compétences en tant que SOC-analyste.
+- 🖥️ M'améliorer en développement en PHP et Python.
+- 🌐 Explorer davantage l’OSINT.
 
-📚 Approfondir mes connaissances en Cyber-Sécurité.
+## **Mes passions :**
 
-🔓 Développer mes compétences en tant que SOC-analyste.
+---
 
-🖥️ M'améliorer en développement en PHP et Python.
+- 🎮 Capture de drapeau (CTF): Je participe régulièrement à des compétitions CTF pour améliorer mes compétences en cybersécurité.
+- 📚 Lecture: J'aime explorer les dernières avancées et les tendances en matière de sécurité informatique.
+- 🎵 Musique: Quand je ne suis pas en train de coder, vous me trouverez probablement en train d'écouter de la musique.
 
-🌐 Explorer davantage l’OSINT.
+## **Contact :**
 
+---
 
-N’hésitez pas à explorer mon profil pour en savoir plus ! 😊
+N'hésitez pas à me contacter pour discuter de la sécurité informatique, des projets collaboratifs ou simplement pour échanger des idées!
 
+- 🔗 Mail : franck.zeghers@proton.me
