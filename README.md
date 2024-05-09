@@ -1,6 +1,6 @@
 <h1 align="center">
   <b> Bienvenue sur mon profil GitHub ! </b>
-  <img src="https://cdn3.emoji.gg/emojis/5541-running-pikachu.gif" width="50" style="vertical-align: middle;">
+  <img src="https://cdn3.emoji.gg/emojis/5541-running-pikachu.gif" width="60" style="vertical-align: middle;">
 </h1>
 
 Salut ! Moi c'est Franck, un étudiant belge de 25 ans passionné d’IT, qui aime découvrir toujours plus de choses sur la sécurité informatique. Voici un résumé de mes centres d’intérêt et de mes activités :
