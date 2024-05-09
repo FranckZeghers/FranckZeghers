@@ -23,7 +23,7 @@ Salut ! Moi c'est Franck, un étudiant belge de 25 ans passionné d’IT, qui ai
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Warp_Terminal-%236A0DAD?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Terminal](https://img.shields.io/badge/Terminal-%236A0DAD?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 ## À propos de moi :
