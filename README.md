@@ -9,7 +9,7 @@ Salut ! Moi c'est Franck, un étudiant belge de 25 ans passionné d’IT, qui ai
 
 - **Langages**:
     
-    [![Python](https://img.shields.io/badge/Python%20-%230066FF.svg?style=for-the-badge&logo=python&logoColor=%FC624)](https://www.python.org/)
+    [![Python](https://img.shields.io/badge/Python%20-%230066FF.svg?style=for-the-badge&logo=python&logoColor=%23FC624D)](https://www.python.org/)
 
 - **Logiciels et outils**:
 
