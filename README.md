@@ -1,18 +1,4 @@
-<h1 align="center"><b> Bienvenue sur mon profil github ! </b><img <h1><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35" style="border-bottom: 2px solid red; animation: pulse 2s linear infinite;"></h1>
-
-<style>
-  @keyframes pulse {
-    0% {
-      border-bottom-width: 2px;
-    }
-    50% {
-      border-bottom-width: 4px;
-    }
-    100% {
-      border-bottom-width: 2px;
-    }
-  }
-</style>
+<h1 align="center"><b> Bienvenue sur mon profil github ! </b><img <h1><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
 
 
 Salut ! Moi c'est Franck, un étudiant belge de 25 ans passionné d’IT, qui aime découvrir toujours plus de choses sur la sécurité informatique. Voici un résumé de mes centres d’intérêt et de mes activités :
