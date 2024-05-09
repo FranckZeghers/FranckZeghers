@@ -50,7 +50,7 @@ N'hésitez pas à me contacter pour discuter de la sécurité informatique, des 
 <br>
 
 <li>
-<a href="mailto:franck.zeghers@proton.me" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  FranckZeghers-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
+  <a href="mailto:franck.zeghers@proton.me" target="_blank">
+    <img src="https://img.shields.io/badge/protonmail:franck.zeghers-%23A259FF.svg?style=for-the-badge&logo=protonmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+  </a>
 </li>
