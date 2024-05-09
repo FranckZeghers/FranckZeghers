@@ -8,12 +8,12 @@ Salut ! Moi c'est Franck, un étudiant belge de 25 ans passionné d’IT, qui ai
 
 <p align="center">
 
-- **Languages**:
+- **Langages**:
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
-- **Softwares and Tools**:
+- **Logiciels et outils**:
 
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
