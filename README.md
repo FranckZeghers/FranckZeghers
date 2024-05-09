@@ -57,3 +57,11 @@ N'hésitez pas à me contacter pour discuter de la sécurité informatique, des 
     <img src="https://img.shields.io/badge/protonmail:franck.zeghers-%23A259FF.svg?style=for-the-badge&logo=protonmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
   </a>
 </li>
+
+<br>
+
+<li>
+  <a href="https://www.linkedin.com/in/franck-zeghers/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-franck.zeghers-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
+  </a>
+</li>
