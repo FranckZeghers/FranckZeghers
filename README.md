@@ -50,3 +50,16 @@ Salut ! Moi c'est Franck, un étudiant belge de 25 ans passionné d’IT, qui ai
 N'hésitez pas à me contacter pour discuter de la sécurité informatique, des projets collaboratifs ou simplement pour échanger des idées!
 
 - 🔗 Mail : franck.zeghers@proton.me
+<li>
+<a href="https://twitter.com/TatakiPesto" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  TatakiPesto-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:franck.zeghers@proton.me" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  FranckZeghers-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
