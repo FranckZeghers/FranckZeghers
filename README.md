@@ -39,12 +39,6 @@ Salut ! Moi c'est Franck, un étudiant belge de 25 ans passionné d’IT, qui ai
 - 🖥️ M'améliorer en développement en PHP et Python.
 - 🌐 Explorer davantage l’OSINT.
 
-## **Mes passions :**
-
-- 🎮 Capture de drapeau (CTF): Je participe régulièrement à des compétitions CTF pour améliorer mes compétences en cybersécurité.
-- 📚 Lecture: J'aime explorer les dernières avancées et les tendances en matière de sécurité informatique.
-- 🎵 Musique: Quand je ne suis pas en train de coder, vous me trouverez probablement en train d'écouter de la musique.
-
 ## **Contact :**
 
 N'hésitez pas à me contacter pour discuter de la sécurité informatique, des projets collaboratifs ou simplement pour échanger des idées!
