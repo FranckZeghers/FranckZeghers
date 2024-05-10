@@ -61,7 +61,7 @@ N'hésitez pas à me contacter pour discuter de la sécurité informatique, des 
 <br>
 
 <li>
-  <a href="https://www.linkedin.com/in/franck-zeghers/" target="_blank" style="color: #0077B5; font-family: Arial, sans-serif;">
-    <img src="https://img.shields.io/badge/linkedin-franck.zeghers-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
+  <a href="https://www.linkedin.com/in/franck-zeghers/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin:  Franck Zeghers-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
 </li>
