@@ -34,12 +34,6 @@ Hello everyone! I'm Franck, 25 years old, passionate about IT and always seeking
 
 Feel free to reach out to me to discuss cybersecurity, collaborative projects, or just to exchange ideas!
 
-<li>
-<a href="https://twitter.com/TatakiPesto" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  TatakiPesto-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
 <br>
 
 <li>
