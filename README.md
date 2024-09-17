@@ -9,28 +9,14 @@ Hello everyone! I'm Franck, 25 years old, passionate about IT and always seeking
 
 <p align="center">
 
-- **Languages**:
-    
-    [![Python](https://img.shields.io/badge/Python%20-%23264E99.svg?style=for-the-badge&logo=python&logoColor=%23FFDB58)](https://www.python.org/)
-    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-    ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+- **Languages**: <br>
+  <img src="https://skillicons.dev/icons?i=python,php,bash,powershell"/>
 
-- **Software and Tools**:
+- **Software and Tools**: <br>
+  <img src="https://skillicons.dev/icons?i=github,vscode,linux,notion,burpsuite,canva,sonarqube"/>
 
-    [![GitHub](https://img.shields.io/badge/github-%23FFA07A.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-    ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-    ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6800?style=for-the-badge&logo=burp-suite&logoColor=white)
-    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-    ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-    ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-040404?style=for-the-badge&logo=owasp&logoColor=white)
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%237E82FF?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+- **Extras**: <br>
+  <img src="https://skillicons.dev/icons?i=terminal,markdown"/>
 
 ## About me:
 
