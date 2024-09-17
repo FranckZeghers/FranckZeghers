@@ -3,7 +3,7 @@
   <img src="https://cdn3.emoji.gg/emojis/5541-running-pikachu.gif" width="55" style="vertical-align: middle;">
 </h1>
 
-Salut ! Moi c'est Franck, un étudiant belge de 25 ans passionné d’IT, qui aime découvrir toujours plus de choses sur la sécurité informatique. Voici un résumé de mes centres d’intérêt et de mes activités :
+Bonjour tout le monde ! Moi, c'est Franck, 25 ans, passionné par l'IT et toujours à la recherche de nouvelles connaissances en sécurité informatique. Voici un aperçu de mes centres d'intérêt et de mon parcours :
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b></h2>
 
@@ -28,17 +28,16 @@ Salut ! Moi c'est Franck, un étudiant belge de 25 ans passionné d’IT, qui ai
 
 ## À propos de moi :
 
-- 🌐 Actuellement en formation de Cyber-Sécurité.
-- 👀 Intéressé par l’OSINT (Open Source Intelligence).
-- 💼 Ancien participant au programme Cyber Sprint chez BeCode.
-- 💻 En train d’apprendre le développement en Python et le Backend (PHP).
+🌐 En formation de Cyber-Sécurité chez BeCode.
+💼 Ancien participant du programme Cyber Sprint chez BeCode.
+💻 Actuellement en plein apprentissage de la sécurité des applications et des logiciels web.
+Mes objectifs :
 
 ## Objectifs :
 
-- 📚 Approfondir mes connaissances en Cyber-Sécurité.
-- 🔓 Développer mes compétences en tant que SOC-analyste.
-- 🖥️ M'améliorer en développement en PHP et Python.
-- 🌐 Explorer davantage l’OSINT.
+🔐 Approfondir mes compétences en analyse de sécurité et en protection des logiciels web et applications.
+🖥️ Améliorer mes compétences en développement pour devenir plus polyvalent.
+🎯 Participer à des projets concrets pour renforcer mes capacités en cybersécurité.
 
 ## **Contact :**
 
