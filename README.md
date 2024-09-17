@@ -34,8 +34,6 @@ Hello everyone! I'm Franck, 25 years old, passionate about IT and always seeking
 
 Feel free to reach out to me to discuss cybersecurity, collaborative projects, or just to exchange ideas!
 
-<br>
-
 <li>
   <a href="mailto:franck.zeghers@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/protonmail:franck.zeghers-%23A259FF.svg?style=for-the-badge&logo=protonmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
