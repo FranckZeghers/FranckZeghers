@@ -16,7 +16,7 @@ Hello everyone! I'm Franck, 25 years old, passionate about IT and always seeking
   <img src="https://skillicons.dev/icons?i=github,vscode,linux,notion,burpsuite,canva,sonarqube"/>
 
 - **Extras**: <br>
-  <img src="https://skillicons.dev/icons?i=terminal,markdown"/>
+  <img src="https://skillicons.dev/icons?i=markdown"/>
 
 ## About me:
 
