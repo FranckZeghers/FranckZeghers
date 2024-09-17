@@ -9,7 +9,7 @@ Hello everyone! I'm Franck, 25 years old, passionate about IT and always seeking
 
 <p align="center">
 
-- **Languages**: <br>
+- **Languages & Automation Tools**: <br>
   <img src="https://skillicons.dev/icons?i=python,php,bash,powershell"/>
 
 - **Software and Tools**: <br>
