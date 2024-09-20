@@ -19,9 +19,8 @@ Hello everyone! I'm Franck, 25 years old, passionate about IT and always seeking
   <img src="https://skillicons.dev/icons?i=markdown"/>
 
 ## About me:
-
-🌐 Cyber-Security trainee at BeCode.  
-💼 Former participant of the Cyber Sprint program at BeCode.  
+ 
+💼 Former participant of the Cyber Bootcamp at BeCode.  
 💻 Currently learning about application and web software security.
 
 ## Goals:
