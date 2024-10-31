@@ -3,7 +3,7 @@
   <img src="https://cdn3.emoji.gg/emojis/5541-running-pikachu.gif" width="55" style="vertical-align: middle;">
 </h1>
 
-Hello everyone! I'm Franck, 25 years old, passionate about IT and always seeking new knowledge in cybersecurity. Here’s a glimpse of my interests and background:
+Hello everyone! I'm Franck, 26 years old, passionate about IT and always seeking new knowledge in cybersecurity. Here’s a glimpse of my interests and background:
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> <b>Skills</b></h2>
 
